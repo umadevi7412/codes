@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/umadevi7412/codes/tree/master/0001-two-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/umadevi7412/codes/tree/master/1480-running-sum-of-1d-array) |
+| [1920-build-array-from-permutation](https://github.com/umadevi7412/codes/tree/master/1920-build-array-from-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,5 +20,9 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/umadevi7412/codes/tree/master/1480-running-sum-of-1d-array) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/umadevi7412/codes/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->      
 its my first code on leetcode 3/9/26!!!...
